@@ -1,0 +1,13 @@
+:root{
+  background-color: gray;
+  font-size: 16px; /* Base font size for REM calculations */
+  --calc-width: 20rem; /* 320px equivalent */
+  --padding: 1.25rem; /* 20px equivalent */
+  --gap: 0.9375rem; /* 15px equivalent */
+  --btn-gap: 0.5rem; /* 8px equivalent */
+  --btn-radius: 0.25rem; /* 4px equivalent */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
